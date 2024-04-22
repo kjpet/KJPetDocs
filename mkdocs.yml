@@ -2,6 +2,8 @@ site_name: KJPetDocs
 
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/user-nurse
   features:
     - navigation.tabs
     - navigation.sections
@@ -18,7 +20,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: teal
+      primary: blue
       accent: purple
     - scheme: slate
       toggle:
