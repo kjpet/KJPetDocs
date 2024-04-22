@@ -27,6 +27,9 @@ theme:
       primary: teal
       accent: lime
 
+plugins:
+  - social
+
 extra:
   generator: true
   social:
