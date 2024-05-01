@@ -3,7 +3,7 @@ title: My Cool Page
 desciption: This is my cool page description for my cool page
 ---
 
-# Page 2
+## Side 2
 
 ## Another heading
 

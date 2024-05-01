@@ -31,7 +31,7 @@ theme:
 
 plugins:
   - social
-
+  - search
 extra:
   generator: true
   social:
